@@ -1,21 +1,15 @@
-# shimo-gift-card
+用于发放石墨文档个人高级版优惠卡。为了环保♻️，提供数字化的发放方式，替代纸质邮寄。
 
-## Project setup
-```
-yarn install
-```
+demo: [https://ethonlau.github.io/shimo-gift-card?code=AS79HTQEX&type=2](https://ethonlau.github.io/shimo-gift-card?code=AS79HTQEX&type=2)
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+![](https://github.com/ethonlau/shimo-gift-card/blob/master/image/img.png)
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+适用于 Mobile & PC web
 
-### Lints and fixes files
-```
-yarn run lint
-```
+code 字段为兑换码
+type 字段为优惠卡类别
+- 1 代表季卡
+- 2 代表半年卡
+- 3 代表年卡
+
+根据实际情况替换即可
