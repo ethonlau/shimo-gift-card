@@ -6,10 +6,7 @@ demo: [https://ethonlau.github.io/shimo-gift-card?code=AS79HTQEX&type=2](https:/
 
 适用于 Mobile & PC web
 
-code 字段为兑换码
-type 字段为优惠卡类别
+code 字段为兑换码，type 字段为优惠卡类别，根据实际情况替换即可
 - 1 代表季卡
 - 2 代表半年卡
 - 3 代表年卡
-
-根据实际情况替换即可
