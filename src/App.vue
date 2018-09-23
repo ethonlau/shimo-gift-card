@@ -153,6 +153,10 @@ export default {
       backface-visibility: hidden;
     }
 
+    .front {
+      z-index: 1;
+    }
+
     .back {
       transform: rotateY(180deg);
     }
